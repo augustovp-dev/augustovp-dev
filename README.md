@@ -22,9 +22,20 @@ de desenvolvimento, para alcançar meus sonhos e, no futuro, fazer meus próprio
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📚 Em estudo atualmente
+- Tecnologia da Informação
+- Estruturas de Dados
+- Desenvolvimento de aplicações web
+- Banco de dados relacionais
+- Algoritmos
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=augustovp-dev&show_icons=true&theme=default&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=augustovp-dev&layout=compact&langs_count=6&theme=default"/>
-</div>
+---
+
+### 📌 Objetivo
+Buscar oportunidade de **estágio ou posição júnior**, onde eu possa evoluir tecnicamente
+e contribuir com aprendizado contínuo e constante
+
+---
+
+### 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/augusto-v-p-80236b30a/
