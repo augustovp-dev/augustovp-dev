@@ -1,16 +1,40 @@
-## Hi there 👋
+## Olá, eu sou o Augusto Ventura Passos
 
-<!--
-**augustovp-dev/augustovp-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** na **SPTech**, com interesse em
+desenvolvimento de software e construção de soluções bem estruturadas.
 
-Here are some ideas to get you started:
+Atualmente foco em aprender fundamentos sólidos de programação, lógica e boas práticas
+de desenvolvimento, para alcançar meus sonhos e, no futuro, fazer meus próprios projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🎓 Formação
+- Análise e Desenvolvimento de Sistemas — **SPTech** (em andamento)
+
+---
+
+### 💻 Tecnologias
+- Linguagens: Java, JavaScript
+- Web: HTML, CSS
+- Banco de Dados: MySQL
+- Ferramentas: Git, GitHub, VS Code
+
+---
+
+### 📚 Em estudo atualmente
+- Tecnologia da Informação
+- Estruturas de Dados
+- Desenvolvimento de aplicações web
+- Banco de dados relacionais
+- Algoritmos
+
+---
+
+### 📌 Objetivo
+Buscar oportunidade de **estágio ou posição júnior**, onde eu possa evoluir tecnicamente
+e contribuir com aprendizado contínuo e constante
+
+---
+
+### 📫 Contato
+- LinkedIn: https://www.linkedin.com/in/augusto-v-p-80236b30a/
