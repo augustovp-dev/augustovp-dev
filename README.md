@@ -9,7 +9,8 @@ de desenvolvimento, para alcançar meus sonhos e, no futuro, fazer meus próprio
 ---
 
 ### 🎓 Formação
-- Análise e Desenvolvimento de Sistemas — **SPTech** (em andamento)
+- Estudante de Análise e Desenvolvimento de Sistemas na SPTech | Java | SQL
+
 
 ---
 
